@@ -1,0 +1,22 @@
+80% JPEG - 69K
+The quality is very good
+
+40% JPEG - 23K
+The quality is medium or low
+
+256 color GIF - 74K
+Medium quality
+
+64 color GIF - 74K
+The quality was low
+
+8 color GIF - 34K
+Quality is very low
+
+PNG 24 - 285K
+Quality is really good
+
+
+
+
+
