@@ -35,7 +35,7 @@ main section {
     background-image: url(../images/sj-011.jpg);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
     height: 200px;
 }
 .pic2 {
